@@ -89,11 +89,11 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Experimenter*** , A ***wor
 </p>
 <hr/>
 <p>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mihirshar&show_icons=true" alt="MihirShar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshar&layout=compact&hide=html" alt="MihirShar" />
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mihirshar" alt="anubhavsharma430" />
+  <img src="https://komarev.com/ghpvc/?username=mihirshar" alt="MihirShar" />
   <br/>
   <img src="https://profile-counter.glitch.me/mihirshar/count.svg" alt="mihirshar" />
 </p>
