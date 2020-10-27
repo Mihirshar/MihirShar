@@ -6,11 +6,11 @@
   &nbsp; &nbsp;
   <a href="mailto:shar.mihir12@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Shar.mihir12@gmail.com" alt="MihirShar" height="30" width="150" /></a><br/>
   <br/>
-  <a href="https://www.instagram.com/mihir_shar/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_Mihir_Shar._-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://www.instagram.com/mihir_shar/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_Mihir__Shar_-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mihir_shar/" alt="MihirShar" height="30" width="150" /></a>
   &nbsp; &nbsp;
-  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://www.facebook.com/monsterhumour" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/monsterhumour" alt="MihirShar" height="30" width="150" /></a>
   &nbsp; &nbsp;
-  <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://wa.me/919680747474" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/919680747474/" alt="anubhavsharma430" height="30" width="150" /></a>
   <br/>
   <br/>
   <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhavsharma430" height="30" width="150" /></a>
