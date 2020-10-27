@@ -84,7 +84,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Experimenter*** , A ***wor
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=anubhavsharma430&column=7"/>
+    <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=mihirshar&column=7"/>
   </a>
 </p>
 <hr/>
@@ -93,7 +93,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Experimenter*** , A ***wor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" />
+  <img src="https://komarev.com/ghpvc/?username=mihirshar" alt="anubhavsharma430" />
   <br/>
-  <img src="https://profile-counter.glitch.me/anubhavsharma430/count.svg" alt="anubhavsharma430" />
+  <img src="https://profile-counter.glitch.me/mihirshar/count.svg" alt="mihirshar" />
 </p>
