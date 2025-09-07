@@ -1,99 +1,118 @@
-<h1 align="center">Mihir Sharma</h1>
-<hr/>
-<h2 align="center">Contact Me</h2>
+<h1 align="center">👋 Hi, I'm Mihir</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mihir-s-6b850b11b/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihir-s-6b850b11b/" alt="MihirShar" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="mailto:shar.mihir12@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Shar.mihir12@gmail.com" alt="MihirShar" height="30" width="150" /></a><br/>
-  <br/>
-  <a href="https://www.instagram.com/mihir_shar/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_Mihir__Shar_-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mihir_shar/" alt="MihirShar" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://www.facebook.com/monsterhumour" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/monsterhumour" alt="MihirShar" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://wa.me/919680747474" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/919680747474/" alt="anubhavsharma430" height="30" width="150" /></a>
-  <br/>
-  <br/>
-</p>
-<hr/>
-<h2 align="center">My Work</h2>
-<p align="center">
-  <a href="https://www.kaggle.com/mihirshar" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/mihirshar"alt="%22MihirShar" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://stackoverflow.com/users/11194817/mihir-sharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Mihir_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11194817/mihir-sharma" alt="%22MihirShar" height="30" width="150" /></a>
+  🚀 <b>Data Engineer @ EXL Services</b> | 🌱 Aspiring <b>AI/ML/Generative AI Specialist</b> | 🏗️ Founder of <b>Weeb Corner</b>
 </p>
 
 ---
-## Hey Everyone 👋,           
-I'm Mihir Sharma, Student at JECRC University Pursuing **B.Tech**. in **Computer Science and Engineering**.<br/>
-I am a ***Machine Learning*** Enthusiast.<br/>
-I like to fix bugs whether technical or personal.<br/>
-I am a student developer love to spend time with techy stuff and exploring new things and people.<br/>
-Basically I'm a **chef coder** who create algorithms from scratch.<br/>
-* A future **AI** expert...💭
-* **Robotic Process automation** follower...😅
-* Love to listen to Music.....
-* **Political** news are on mind🧐
-* Good at **editing** thing and come out with innovative solutions.....
 
-Currently working on AI and ML.<br/>
-Also Play with Data and work with **Images** and **Datasets**.<br/>
+## 🔥 About Me
+<ul>
+  <li>💻 Data Engineer with strong experience in <b>Python, SQL, Data Pipelines, and Cloud (GCP/AWS)</b>.</li>
+  <li>📊 Transitioning into <b>AI, ML & Generative AI</b>, currently on a structured <b>6-month fast-track roadmap</b>.</li>
+  <li>🎯 Building my startup <a href="#-weeb-corner"><b>Weeb Corner</b></a> – anime merchandise e-commerce store for the Indian market.</li>
+  <li>🧠 Passionate about combining <b>engineering + AI + entrepreneurship</b>.</li>
+</ul>
 
-A ***Data Analyst***, A ***Learner*** , An ***Amazing Experimenter*** , A ***work-o-hilic*** guy willing to work more.....🤔😉
-
-## 🧐 About
-- 🔭 I am currently an Student at JECRC University.
-- 🏄‍ Community guy who loves being involved in communities and help students grow.
-- 😄 I love to teach machines teach and see how they learn with comparasion to Human Beings.
-- 🌱 I love working on Python.
-- ⚡ I’m currently learning about ***Data Structures***
-- 👯 And Many More...
-
-# Want to connect?
-- 💬 Ask me about **anything** and **everything**!
-- 💬 Share your **Problems**(Presonal or Technical) for solution and I'll try my best!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919680747474)
-- ⚡ Love meeting new people and learning from them , doesn't matter younger or older than me what matters is the experience.
-- 💬 Ping Me about #AI (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
 
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  &nbsp; 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  &nbsp; 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
-<hr/>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=mihirshar&column=7"/>
-  </a>
-</p>
-<hr/>
+## 🛠️ Tech Stack
 <p>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mihirshar&show_icons=true" alt="MihirShar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshar&layout=compact&hide=html" alt="MihirShar" />
+  <b>Languages:</b> Python, SQL, Bash, JavaScript <br>
+  <b>Data & AI:</b> Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch (learning) <br>
+  <b>Backend & APIs:</b> Node.js, Express, FastAPI <br>
+  <b>Cloud & DevOps:</b> GCP (Cloud Run, Cloud SQL, Storage, FCM), Docker, Kubernetes, GitHub Actions <br>
+  <b>Databases:</b> PostgreSQL, MySQL, MongoDB <br>
+  <b>Tools:</b> Git, GitHub, Linux CLI, VS Code, Jupyter
 </p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mihirshar" alt="MihirShar" />
-  <br/>
-  <img src="https://profile-counter.glitch.me/mihirshar/count.svg" alt="mihirshar" />
+
+---
+
+## 📚 Learning Journey (6-Month Roadmap)
+<p>Currently pursuing a <b>structured fast-track program</b> from fundamentals → advanced AI → Generative AI.</p>
+
+<details>
+  <summary><b>📅 Click to expand full roadmap</b></summary>
+  <br>
+
+  <table>
+    <tr>
+      <th>Module</th>
+      <th>Topics</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td><b>Module 1</b></td>
+      <td>Linux CLI, Git & GitHub, Python + DSA, Dev Environment Setup</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><b>Module 2</b></td>
+      <td>FastAPI, Networking Basics, Docker/Podman, Kubernetes, CI/CD Tools</td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
+      <td><b>Module 3</b></td>
+      <td>Probability, Statistics, ML Algorithms, Deep Learning</td>
+      <td>📅 Upcoming</td>
+    </tr>
+    <tr>
+      <td><b>Module 4</b></td>
+      <td>Generative AI (LLMs, Diffusion Models, Prompt Engineering)</td>
+      <td>📅 Upcoming</td>
+    </tr>
+    <tr>
+      <td><b>Capstone</b></td>
+      <td>AI + Data Engineering project with deployment on GCP</td>
+      <td>📅 Jan 2026</td>
+    </tr>
+  </table>
+</details>
+
+---
+
+## 🏗️ Projects
+<ul>
+  <li><a href="#-weeb-corner"><b>Weeb Corner</b></a> – Full-stack anime e-commerce platform (WordPress + custom backend integrations).</li>
+  <li><b>Healthcare Data Transformation</b> – XML → JSON → FHIR using <b>XSLT & InterSystems IRIS</b>.</li>
+  <li><b>Data Engineering Pipelines</b> – Cloud-native ETL with GCP BigQuery + Python.</li>
+  <li><b>ML Experiments</b> – Prototyping predictive models and Generative AI use cases.</li>
+</ul>
+
+---
+
+## 🛒 Weeb Corner
+🌸 My startup: <b>Weeb Corner</b> – an anime merchandise e-commerce brand.  
+
+<b>Features:</b>
+<ul>
+  <li>Dark/Light themes, mobile-first UI</li>
+  <li>JWT Authentication with Email Verification</li>
+  <li>Payment & Shipping Integration (Razorpay, Shiprocket)</li>
+  <li>Cart, Wishlist & Abandoned Cart Recovery (Mailchimp)</li>
+  <li>Gamified Loyalty Program + Referral System</li>
+  <li>Analytics: GA4, Meta Pixel, Hotjar</li>
+  <li>Future Expansion: Global shipping + Influencer Affiliate Program</li>
+</ul>
+
+---
+
+## 📈 Current Goals
+<ul>
+  <li>Transition from <b>Data Engineering → AI/ML/Generative AI</b>.</li>
+  <li>Build & scale <b>Weeb Corner</b> into India’s biggest anime e-commerce hub.</li>
+  <li>Launch an <b>AI-driven startup</b> combining my engineering + ML skills.</li>
+</ul>
+
+---
+
+## 📫 Connect with Me
+<p>
+  💼 <a href="https://www.linkedin.com/">LinkedIn</a> <br>
+  🐙 <a href="https://github.com/">GitHub</a> <br>
+  ✉️ mihir@example.com
 </p>
+
+---
+
+<p align="center">⭐️ <i>"Code. Learn. Build. Scale."</i></p>
